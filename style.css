@@ -1,5 +1,5 @@
 html {
-    background-color: #f3fbec;
+    background-color: #1E2A2E;
 }
 
 #im_vu {
@@ -8,19 +8,19 @@ html {
 }
 
 #izq {
-    background-color: #3762b1;
+    background-color: #D8BDC0;
     width: 30%;
-    height: 100%;
-    float: left;
-}
-
-#der {
-    background-color: #5eb2c7;
-    width: 70%;
     height: 100%;
     float: right;
 }
 
+#der {
+    background-color: #972904;
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+
 a {
-    background-color: #f3fbec;
+    background-color: #1E2A2E;
 }
