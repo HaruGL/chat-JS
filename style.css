@@ -11,14 +11,14 @@ html {
     background-color: #D8BDC0;
     width: 30%;
     height: 100%;
-    float: left;
+    float: right;
 }
 
 #der {
     background-color: #972904;
     width: 70%;
     height: 100%;
-    float: right;
+    float: left;
 }
 
 a {
